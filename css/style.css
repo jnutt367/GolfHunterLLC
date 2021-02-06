@@ -54,6 +54,7 @@ nav a {
     color: silver;
     height: 50px;
     width: 200px;
+    cursor: pointer;
 }
 
 .banner-area {
