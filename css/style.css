@@ -49,19 +49,19 @@ nav a {
 }
 
 .button {
-    font-size: 20px;
+    font-size: 50px;
     background-color: black;
     color: silver;
     border: 1px solid silver;
     border-radius: 6px;
-    height: 50px;
+    height: 150px;
     width: 500px;
     cursor: pointer;
 }
 
 .banner-area {
     width: 100%;
-    height: 500px;
+    height: 700px;
     position: fixed;
     top: 100;
     background-image: url(../images/young-asian-woman-playing-golf.jpg);
@@ -81,12 +81,12 @@ nav a {
 .content-area {
     width: 100%;
     position: relative;
-    top: 450px;
+    top: 700px;
     background-image: url(../images/get_in_the_hole.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
-    height: 1900px;
+    height: 2200px;
 }
 
 .content-area h2 {
