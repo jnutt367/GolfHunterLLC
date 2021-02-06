@@ -75,6 +75,7 @@ nav a {
     font-size: 70px;
     font-family: poppins;
     text-transform: uppercase;
+    text-shadow: 2px 2px black;
     color: #fff;
 }
 
