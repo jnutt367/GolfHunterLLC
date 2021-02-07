@@ -51,6 +51,7 @@ nav a {
 
 .button {
     font-size: 50px;
+    text-shadow: 3px 3px green;
     background-color: black;
     color: silver;
     border: 1px solid silver;
@@ -93,8 +94,8 @@ nav a {
 
 .content-area h2 {
     font-family: bignoodletitling;
-    color: skyblue;
-    text-shadow: 2px 2px black;
+    color: green;
+    text-shadow: 3px 3px black;
     letter-spacing: 4px;
     padding-top: 30px;
     font-size: 40px;
