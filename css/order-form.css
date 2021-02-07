@@ -9,7 +9,7 @@ body {
 }
 
 .app-container {
-    height: 600px;
+    height: 700px;
     width: 350px;
     border: 2px solid green;
     border-radius: 15px;
@@ -89,6 +89,7 @@ body {
     color: #555;
     margin: 10px 30px;
     padding: 10px;
+    border: 1px solid green;
 }
 
 .card-details p {
@@ -98,4 +99,34 @@ body {
 .card-details label {
     font-size: 10px;
     line-height: 20px;
+}
+
+.card-num-field-group {
+    margin-top: 10px;
+}
+
+.date-field-group {
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.cvc-field-group {
+    margin-top: 10px;
+    display: inline-block;
+    float: right;
+}
+
+.name-field-group {
+    margin-top: 30px;
+}
+
+.card-num-field,
+.name-field {
+    width: 270px;
+    margin-top: 10px;
+}
+
+.date-field,
+.cvc-field {
+    width: 80px;
 }
