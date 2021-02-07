@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.app-container {
+    height: 600px;
+    width: 350px;
+    border-radius: 15px;
+    background-image: url(../images/golf--transparent-background-golf-clipart.png);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+.top-box {
+    height: 150px;
+    background-color: transparent;
+    border: 1px solid green;
+    box-shadow: 1px 1px green;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+}
+
+.top-box p {
+    text-align: center;
+    padding-top: 20px;
+    color: black;
+}
