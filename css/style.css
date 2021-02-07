@@ -54,12 +54,12 @@ nav a {
     text-shadow: 3px 3px green;
     background-color: transparent;
     color: silver;
-    border: 1px solid silver;
+    border: 1px solid green;
     border-radius: 6px;
     height: 150px;
     width: 500px;
     cursor: pointer;
-    box-shadow: 2px 2px 2px 2px greenyellow;
+    box-shadow: 2px 2px 2px 2px green;
     margin-bottom: 25px;
 }
 
