@@ -52,13 +52,15 @@ nav a {
 .button {
     font-size: 50px;
     text-shadow: 3px 3px green;
-    background-color: black;
+    background-color: transparent;
     color: silver;
     border: 1px solid silver;
     border-radius: 6px;
     height: 150px;
     width: 500px;
     cursor: pointer;
+    box-shadow: 2px 2px 2px 2px greenyellow;
+    margin-bottom: 25px;
 }
 
 .banner-area {
