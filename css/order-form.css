@@ -35,3 +35,38 @@ body {
     padding-top: 20px;
     color: black;
 }
+
+.left-icon {
+    float: left;
+    margin-left: 30px;
+}
+
+.right-icon {
+    float: right;
+    margin-right: 30px;
+}
+
+.middle-box {
+    height: 150px;
+    background: green;
+    opacity: 0.7;
+    margin: -70px 30px 20px;
+    color: black;
+    text-align: center;
+    font-size: 12px;
+    border-radius: 10px;
+}
+
+.middle-box h1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.middle-box h1 span {
+    font-size: 20px;
+    margin-left: 5px;
+    bottom: 18px;
+    position: relative;
+}
