@@ -8,3 +8,14 @@
     background-size: cover;
     background-position: center center;
 }
+
+.content-area {
+    width: 100%;
+    position: relative;
+    top: 700px;
+    background-image: url(../images/1000x-1.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    height: 2200px;
+}
