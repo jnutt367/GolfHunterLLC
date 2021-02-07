@@ -83,3 +83,19 @@ body {
     border: none;
     cursor: pointer;
 }
+
+.card-details {
+    background: #fff;
+    color: #555;
+    margin: 10px 30px;
+    padding: 10px;
+}
+
+.card-details p {
+    font-size: 14px;
+}
+
+.card-details label {
+    font-size: 10px;
+    line-height: 20px;
+}
