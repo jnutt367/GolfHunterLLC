@@ -9,6 +9,8 @@ body {
 }
 
 .app-container {
+    background-color: green;
+    opacity: 0.8;
     height: 700px;
     width: 350px;
     border: 2px solid green;
@@ -73,8 +75,12 @@ body {
     position: relative;
 }
 
+.middle-box p {
+    color: #fff;
+}
+
 .payment-option-btn {
-    color: black;
+    color: #fff;
     margin: 5px 30px;
     height: 30px;
     width: 290px;
@@ -85,11 +91,13 @@ body {
 }
 
 .card-details {
-    background: #fff;
-    color: #555;
+    background-color: green;
+    opacity: 0.9;
+    color: #fff;
     margin: 10px 30px;
     padding: 10px;
     border: 1px solid green;
+    border-radius: 15px;
 }
 
 .card-details p {
