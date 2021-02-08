@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    border: 2px solid green;
+}
+
+.app-container {
+    background-color: green;
+    opacity: 0.8;
+    height: 700px;
+    width: 350px;
+    border: 2px solid green;
+    border-radius: 15px;
+    background-image: url(../images/golf--transparent-background-golf-clipart.png);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+.top-box {
+    height: 150px;
+    background-color: transparent;
+    border: 1px solid green;
+    box-shadow: 1px 1px green;
+    border-bottom-left-radius: 80px;
+    border-bottom-right-radius: 80px;
+}
+
+.top-box p {
+    text-align: center;
+    padding-top: 20px;
+    color: black;
+}
+
+.left-icon {
+    float: left;
+    margin-left: 30px;
+}
+
+.right-icon {
+    float: right;
+    margin-right: 30px;
+}
+
+.middle-box {
+    height: 150px;
+    background: green;
+    opacity: 0.7;
+    margin: -70px 30px 20px;
+    color: black;
+    text-align: center;
+    font-size: 12px;
+    border-radius: 10px;
+}
+
+.middle-box h1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.middle-box h1 span {
+    font-size: 20px;
+    margin-left: 5px;
+    bottom: 18px;
+    position: relative;
+}
+
+.middle-box p {
+    color: #fff;
+}
+
+.payment-option-btn {
+    color: #fff;
+    margin: 5px 30px;
+    height: 30px;
+    width: 290px;
+    background-color: green;
+    opacity: 0.7;
+    border: none;
+    cursor: pointer;
+}
+
+.card-details {
+    background-color: green;
+    opacity: 0.9;
+    color: #fff;
+    margin: 10px 30px;
+    padding: 10px;
+    border: 1px solid green;
+    border-radius: 15px;
+}
+
+.card-details p {
+    font-size: 14px;
+}
+
+.card-details label {
+    font-size: 10px;
+    line-height: 20px;
+}
+
+.card-num-field-group {
+    margin-top: 10px;
+}
+
+.date-field-group {
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.cvc-field-group {
+    margin-top: 10px;
+    display: inline-block;
+    float: right;
+}
+
+.name-field-group {
+    margin-top: 30px;
+}
+
+.card-num-field,
+.name-field {
+    width: 270px;
+    margin-top: 10px;
+}
+
+.date-field,
+.cvc-field {
+    width: 80px;
+}
