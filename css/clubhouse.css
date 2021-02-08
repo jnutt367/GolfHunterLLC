@@ -1,0 +1,7 @@
+main {
+    height: 1200px;
+    background-image: url(../images/golf-clipart-transparent-background-1.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+}
