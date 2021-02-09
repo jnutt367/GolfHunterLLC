@@ -55,12 +55,12 @@ nav a {
     text-shadow: 3px 3px green;
     background-color: transparent;
     color: silver;
-    border: 1px solid green;
+    border: 1px solid silver;
     border-radius: 6px;
     height: 150px;
     width: 500px;
     cursor: pointer;
-    box-shadow: 2px 2px 2px 2px green;
+    box-shadow: 2px 2px 2px 2px silver;
     margin-bottom: 25px;
 }
 
@@ -88,7 +88,7 @@ nav a {
     width: 100%;
     position: relative;
     top: 700px;
-    background-image: url(../images/pexels-photo-red-and-white-balls.jpeg);
+    background-image: url(../images/pexels-photo-hand-ball-club-far.jpeg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
