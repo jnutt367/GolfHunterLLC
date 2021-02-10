@@ -113,10 +113,10 @@ nav a {
 .content-area p {
     padding: 5% 10%;
     font-family: merienda;
-    color: rgb(92, 92, 107);
-    text-shadow: .5px .5px rgb(27, 186, 240);
-    opacity: 0.8;
-    font-size: 40px;
+    color: skyblue;
+    text-shadow: 3px 3px black;
+    opacity: 0.9;
+    font-size: 35px;
     line-height: 55px;
 }
 
