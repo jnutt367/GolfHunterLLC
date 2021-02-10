@@ -97,7 +97,7 @@ nav a {
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
-    height: 2200px;
+    height: 2300px;
 }
 
 .content-area h2 {
@@ -113,10 +113,10 @@ nav a {
 .content-area p {
     padding: 5% 10%;
     font-family: merienda;
-    color: blue;
-    text-shadow: 2px 2px skyblue;
+    color: rgb(92, 92, 107);
+    text-shadow: .5px .5px rgb(27, 186, 240);
     opacity: 0.8;
-    font-size: 35px;
+    font-size: 40px;
     line-height: 55px;
 }
 
