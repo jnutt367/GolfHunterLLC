@@ -52,16 +52,21 @@ nav a {
 
 .button {
     font-size: 50px;
-    text-shadow: 3px 3px green;
+    text-shadow: 2px 2px silver;
     background-color: transparent;
-    color: silver;
+    color: black;
     border: 1px solid silver;
     border-radius: 6px;
     height: 150px;
     width: 500px;
     cursor: pointer;
-    box-shadow: 2px 2px 2px 2px silver;
+    box-shadow: 3px 3px 3px 3px silver;
     margin-bottom: 25px;
+    transition: transforms;
+}
+
+.button:hover {
+    transform: scale(1.05);
 }
 
 .banner-area {
@@ -97,7 +102,7 @@ nav a {
 
 .content-area h2 {
     font-family: bignoodletitling;
-    color: green;
+    color: skyblue;
     text-shadow: 3px 3px black;
     letter-spacing: 4px;
     padding-top: 30px;
@@ -108,7 +113,7 @@ nav a {
 .content-area p {
     padding: 5% 10%;
     font-family: merienda;
-    color: green;
+    color: skyblue;
     text-shadow: 1px 1px black;
     font-size: 35px;
     line-height: 55px;
