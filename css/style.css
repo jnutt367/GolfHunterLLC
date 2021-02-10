@@ -52,9 +52,9 @@ nav a {
 
 .button {
     font-size: 50px;
-    text-shadow: 2px 2px silver;
+    text-shadow: 2px 2px black;
     background-color: transparent;
-    color: black;
+    color: white;
     border: 1px solid silver;
     border-radius: 6px;
     height: 150px;
@@ -113,8 +113,9 @@ nav a {
 .content-area p {
     padding: 5% 10%;
     font-family: merienda;
-    color: skyblue;
-    text-shadow: 1px 1px black;
+    color: black;
+    text-shadow: 2px 2px skyblue;
+    opacity: 1.5;
     font-size: 35px;
     line-height: 55px;
 }
