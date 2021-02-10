@@ -113,9 +113,9 @@ nav a {
 .content-area p {
     padding: 5% 10%;
     font-family: merienda;
-    color: black;
+    color: blue;
     text-shadow: 2px 2px skyblue;
-    opacity: 1.5;
+    opacity: 0.8;
     font-size: 35px;
     line-height: 55px;
 }
