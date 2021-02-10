@@ -108,10 +108,10 @@ nav a {
 .content-area p {
     padding: 5% 10%;
     font-family: merienda;
-    color: aliceblue;
-    text-shadow: 2px 2px black;
+    color: green;
+    text-shadow: 1px 1px aliceblue;
     font-size: 35px;
-    line-height: 50px;
+    line-height: 55px;
 }
 
 address {
