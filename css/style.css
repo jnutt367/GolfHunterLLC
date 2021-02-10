@@ -69,7 +69,7 @@ nav a {
     height: 700px;
     position: fixed;
     top: 100;
-    background-image: url(../images/pexels-photo-red-and-white-balls.jpeg);
+    background-image: url(../images/pexels-photo-man-from-behind.jpeg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -112,11 +112,6 @@ nav a {
     text-shadow: 2px 2px black;
     font-size: 35px;
     line-height: 50px;
-}
-
-.footer {
-    background: black;
-    height: 700px;
 }
 
 address {
