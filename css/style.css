@@ -5,6 +5,7 @@
 
 body {
     text-align: center;
+    font-family: fantasy;
 }
 
 .wrapper {
@@ -74,7 +75,7 @@ nav a {
     height: 700px;
     position: fixed;
     top: 100;
-    background-image: url(../images/pexels-photo-man-from-behind.jpeg);
+    background-image: url(../techy-images-golfhunter/golf-tech.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -93,11 +94,11 @@ nav a {
     width: 100%;
     position: relative;
     top: 700px;
-    background-image: url(../images/pexels-photo-hand-ball-club-far.jpeg);
+    background-image: url(../images/1000x-1.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
-    height: 2300px;
+    height: 2800px;
 }
 
 .content-area h2 {
