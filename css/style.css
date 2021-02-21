@@ -14,7 +14,7 @@ body {
 
 header {
     height: 100px;
-    background: #262626;
+    background: black;
     width: 100%;
     z-index: 12;
     position: fixed;
