@@ -55,7 +55,8 @@ nav a {
     font-size: 50px;
     text-shadow: 2px 2px black;
     background-color: transparent;
-    color: white;
+    color: black;
+    text-shadow: 2px 2px #fff;
     border: 1px solid silver;
     border-radius: 6px;
     height: 150px;
@@ -75,7 +76,7 @@ nav a {
     height: 700px;
     position: fixed;
     top: 100;
-    background-image: url(../techy-images-golfhunter/pexels-photo-chip.jpeg);
+    background-image: url(../techy-images-golfhunter/golf-tech.jpg);
     opacity: 1;
     -webkit-background-size: cover;
     background-size: cover;
@@ -105,7 +106,7 @@ nav a {
 .content-area h2 {
     font-family: bignoodletitling;
     color: black;
-    text-shadow: 2px 3px skyblue;
+    text-shadow: 2px 2px white;
     letter-spacing: 4px;
     padding-top: 30px;
     font-size: 40px;
@@ -117,7 +118,7 @@ nav a {
     padding: 5% 10%;
     font-family: merienda;
     color: black;
-    text-shadow: 2px 2px skyblue;
+    text-shadow: 2px 2px white;
     opacity: 0.9;
     font-size: 35px;
     line-height: 35px;
