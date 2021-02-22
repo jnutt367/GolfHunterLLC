@@ -75,7 +75,7 @@ nav a {
     height: 700px;
     position: fixed;
     top: 100;
-    background-image: url(../techy-images-golfhunter/golf-tech.jpg);
+    background-image: url(../techy-images-golfhunter/pexels-photo-chip.jpeg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -94,11 +94,11 @@ nav a {
     width: 100%;
     position: relative;
     top: 700px;
-    background-image: url(../images/1000x-1.jpg);
+    background-image: url(../images/pexels-photo-red-and-white-balls.jpeg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
-    height: 2800px;
+    height: 3000px;
 }
 
 .content-area h2 {
