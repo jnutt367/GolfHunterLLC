@@ -76,7 +76,7 @@ nav a {
     position: fixed;
     top: 100;
     background-image: url(../techy-images-golfhunter/pexels-photo-chip.jpeg);
-    opacity: 0.7;
+    opacity: 1;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
