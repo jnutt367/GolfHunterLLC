@@ -76,6 +76,7 @@ nav a {
     position: fixed;
     top: 100;
     background-image: url(../techy-images-golfhunter/pexels-photo-chip.jpeg);
+    opacity: 0.7;
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -94,7 +95,7 @@ nav a {
     width: 100%;
     position: relative;
     top: 700px;
-    background-image: url(../images/pexels-photo-red-and-white-balls.jpeg);
+    background-image: url(../techy-images-golfhunter/usga.jpg);
     -webkit-background-size: cover;
     background-size: cover;
     background-position: center center;
@@ -103,8 +104,8 @@ nav a {
 
 .content-area h2 {
     font-family: bignoodletitling;
-    color: skyblue;
-    text-shadow: 3px 3px black;
+    color: black;
+    text-shadow: 2px 3px skyblue;
     letter-spacing: 4px;
     padding-top: 30px;
     font-size: 40px;
@@ -112,13 +113,14 @@ nav a {
 }
 
 .content-area p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 5% 10%;
     font-family: merienda;
-    color: skyblue;
-    text-shadow: 3px 3px black;
+    color: black;
+    text-shadow: 2px 2px skyblue;
     opacity: 0.9;
     font-size: 35px;
-    line-height: 55px;
+    line-height: 35px;
 }
 
 address {
